@@ -1,3 +1,4 @@
+.gitignore
 data/chat_abbreviations.html
 data/dataset_5_gigantic.csv
 main_MP.py
