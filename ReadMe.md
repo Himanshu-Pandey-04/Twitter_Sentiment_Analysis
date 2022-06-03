@@ -62,11 +62,11 @@
 <hr/>
 <br/>
 <br/>
-<h2 align="center" style="color:red">Part 2 : Machine Learning Models Training</h2>
+<h1 align="center" style="color:red">Part 2 : Machine Learning Models Training</h1>
 <hr/>
-<h3>Datasets</h3>
+<h2>Datasets</h2>
 <li>
-    <a href="https://data.world/crowdflower/sentiment-analysis-in-text">Dataset 1</a>
+    <h3><a style="font-weight:700;" href="https://data.world/crowdflower/sentiment-analysis-in-text">Dataset 1</a></h4>
     <h4>Value Counts</h4>
     <ul>
     <li>-1 : 15236</li>
@@ -75,7 +75,7 @@
     </ul>
 </li>
 <li>
-    <a href="https://www.kaggle.com/datasets/shashank1558/preprocessed-twitter-tweets">Dataset 2</a>
+    <h3><a style="font-weight:700;" href="https://www.kaggle.com/datasets/shashank1558/preprocessed-twitter-tweets">Dataset 2</a></h4>
     <h4>Value Counts</h4>
     <ul>
     <li>-1 : 1117</li>
@@ -84,7 +84,7 @@
     </ul>
 </li>
 <li>
-    <a href="https://www.kaggle.com/datasets/imrandude/twitter-sentiment-analysis">Dataset 3</a>
+    <h3><a style="font-weight:700;" href="https://www.kaggle.com/datasets/imrandude/twitter-sentiment-analysis">Dataset 3</a></h4>
     <h4>Value Counts</h4>
     <ul>
     <li>0 : 29720</li>
@@ -92,7 +92,7 @@
     </ul>
 </li>
 <li>
-    <a href="https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset">Dataset 4</a>
+    <h3><a style="font-weight:700;" href="https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset">Dataset 4</a></h4>
     <h4>Value Counts</h4>
     <ul>
     <li>-1 : 35510</li>
