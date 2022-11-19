@@ -62,7 +62,7 @@
 <hr/>
 <br/>
 <br/>
-<h1 align="center" style="color:red">Part 2 : Machine Learning Models Training</h1>
+<h2 align="center" style="color:red">Part 2 : Machine Learning Models Training</h2>
 <hr/>
 <h2>Datasets</h2>
     <h3><a style="font-weight:700;" href="https://data.world/crowdflower/sentiment-analysis-in-text">Dataset 1</a></h4>
