@@ -1,4 +1,4 @@
-<h1 align="center" style="color:dodgerblue; font-weight:700"> Sentiment Analysis on Twitter Tweets</h1>
+<h1 align="center" style="color:cyan; font-weight:700"> Sentiment Analysis on Twitter Tweets</h1>
 <hr/>
 <br/>
 <p>Sentiment Analysis is conducted on various datasets after exploratory data analysis and data preprocessing, separately using variety of Machine Learning techniques</p>
